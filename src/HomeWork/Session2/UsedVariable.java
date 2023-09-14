@@ -12,5 +12,6 @@ public class UsedVariable {
         System.out.println("Character: " + myChar);
         System.out.println("String: " + myString);
 
+
     }
 }
