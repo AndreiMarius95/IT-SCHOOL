@@ -6,5 +6,7 @@ public class One {
         String stringTwo = "OpenAi";
 
         System.out.println(stringOne == stringTwo);
+        ////////////////////////////////////////////////
+        System.out.println(stringOne.equals(stringTwo) );
     }
 }
