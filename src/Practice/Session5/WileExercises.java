@@ -17,6 +17,7 @@ public class WileExercises {
 
     public static void printSumUntilLimit(int value){
         int number = 1;
+
         int sum = 0;
         while (number < 100){
             sum += number;

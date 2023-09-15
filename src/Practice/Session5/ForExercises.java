@@ -61,6 +61,7 @@ public class ForExercises {
                 break;
             }
         }
+
     }
 
     public static void printBidimensionalArray(int[][] array) {

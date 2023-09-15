@@ -7,6 +7,7 @@ public class SwichExercises {
             printGradeInformationWithEnhancedSwitch(grade);
             printSeasonInfo("Winter");
 
+
         }
 
         private static void printGradeInformation(char grade) {
