@@ -21,4 +21,5 @@ public class DoWhileExercises {
             number--;
         } while (number >= 1);
     }
+
 }
