@@ -25,5 +25,10 @@ bin/
 ### VS Code ###
 .vscode/
 
+### remove ###
+*.iml
+.idea/
+
+
 ### Mac OS ###
 .DS_Store
