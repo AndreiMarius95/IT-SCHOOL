@@ -1,4 +1,4 @@
-package practice.session7;
+package practice.session7.practice_session7;
 
 public class Classroom {
     public static void main(String[] args) {

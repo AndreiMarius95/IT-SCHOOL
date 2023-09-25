@@ -1,4 +1,4 @@
-package practice.session7;
+package practice.session7.practice_session7;
 
 import java.text.SimpleDateFormat;
 import java.util.Date;
