@@ -1,0 +1,1 @@
+Write a program that performs basic string compression by using the counts of repeated characters. For example, the string "aaabbbcccaaa" would become "a3b3c3a3".
