@@ -1,3 +1,5 @@
+package practice.session17;
+
 public class Product {
 
     private String name;
